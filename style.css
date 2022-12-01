@@ -1,0 +1,22 @@
+html{
+    background-color: rgb(190, 211, 229);
+}
+
+.outline {
+    border: 1px solid rgb(78, 10, 238);
+    padding: 0 10px;
+    background-color: rgb(223, 232, 243);
+    color: blue;
+}
+
+h1{
+    color: rgb(53, 53, 155);
+}
+
+h2{
+    color: rgb(84, 84, 224);
+}
+
+.frame {
+    border: 3px solid #2600ff;
+   }
